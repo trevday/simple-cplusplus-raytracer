@@ -5,5 +5,5 @@ This is a quick project I did to familiarize myself with ray tracing concepts as
 Just one, the `stb_image_write` header found [here](https://github.com/nothings/stb).
 
 ## Other Related Projects
-[Ray Tracer in Rust](https://github.com/trevday/rust-raytracer)
-[Real-time Ray Tracer using OpenCL](https://github.com/trevday/opencl-raytracer)
+* [Ray Tracer in Rust](https://github.com/trevday/rust-raytracer)
+* [Real-time Ray Tracer using OpenCL](https://github.com/trevday/opencl-raytracer)
